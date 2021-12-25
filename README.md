@@ -1,5 +1,5 @@
 # Task Architecture
-https://miro.medium.com/max/3000/1*dOZ7qRqsIf_bylAkMNCdRg.png
+![xnopay](https://user-images.githubusercontent.com/64467997/147384716-3a33ffe2-8477-4d14-86b1-0b02dfc327f4.png)
 
 # Xnopay Task
 
@@ -70,7 +70,7 @@ To deploy this project run
   "gender": "Male"
   }
 ```
-#### Update a memory
+#### Update a user detail
 
 ```http
   PUT /user/:id
