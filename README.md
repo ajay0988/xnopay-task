@@ -1,3 +1,5 @@
+# Task Architecture
+https://miro.medium.com/max/3000/1*dOZ7qRqsIf_bylAkMNCdRg.png
 
 # Xnopay Task
 
