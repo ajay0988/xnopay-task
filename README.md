@@ -5,16 +5,15 @@
 
 I have created REST API in ACTIX-WEB framework (developed using RUST) and MongoDB ATLAS as database.
 
-I deployed the backend server at AWS cloud.
 
-API Link : - 
-## Deployment
-## System must have rust installed
-To install run  this cmd
+## Deployment of API's  locally
+## Note 
+1. System must have rust installed
+   To install run  this cmd
 
-curl -sSf https://sh.rustup.rs | sh
+  curl -sSf https://sh.rustup.rs | sh
 
-System must have gcc
+2. System must have gcc
 
 
 To deploy this project run
