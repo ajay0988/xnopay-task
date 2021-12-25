@@ -14,6 +14,8 @@ To install run  this cmd
 
 curl -sSf https://sh.rustup.rs | sh
 
+System must have gcc
+
 
 To deploy this project run
 
